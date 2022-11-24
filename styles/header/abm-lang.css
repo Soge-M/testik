@@ -1,0 +1,38 @@
+.home{
+    display: flex;
+    justify-content: space-between;
+    height: 210px;
+    align-items: center;
+}
+.name{
+    font-size:54px;
+    line-height: 1.2;
+    
+}
+.home__inner_proff{
+    padding-top:30px;
+    font-size: 20px;
+}
+.home__inner_switcher{
+    font-size: 18px;
+}
+.sw-link{
+    text-decoration: none;
+    color: #828282;
+    transition: color 0.2s linear;
+    
+}
+.sw-link:hover{
+    color:#070707;
+}
+.sw-link_active{
+    text-decoration: none;
+    color: #070707;
+    
+}
+figure{
+    margin:0
+}
+.header{
+    height: 100vh;
+}
