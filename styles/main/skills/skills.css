@@ -1,0 +1,26 @@
+.Skills{
+    text-align: center;
+}
+.Skills_header{
+    padding-top: 90px;
+}
+.Skills_text{
+    padding-top: 69px;
+}
+.Skills__app-list{
+    padding: 90px 25px 0px 25px;
+    display: flex;
+    justify-content: space-between;
+
+}
+.signature{
+    font-size: 15px;
+    color: #828282;
+    padding-top:15px;
+}
+.Skills__rating{
+    padding-top:40px;
+    padding-bottom: 110px;
+    display:flex;
+    justify-content: space-between;
+}
