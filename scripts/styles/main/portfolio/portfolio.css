@@ -1,0 +1,30 @@
+.main__inner_portfolio{
+    background-color:#F6F6F6 ;
+
+}
+.portfolio{
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+.portfolio__header{
+    padding-top: 115px;
+}
+.portfolio__example_1{
+    padding-top: 65px;
+}
+.portfolio_signature{
+    padding-top: 35px;
+}
+.design-link{
+    color: #070707;
+}
+.portfolio__example_2{
+    padding-top: 100px;
+}
+.portfolio__example_3{
+    padding-top: 100px;
+    padding-bottom: 95px;
+
+}
