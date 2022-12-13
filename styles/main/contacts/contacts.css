@@ -3,23 +3,25 @@
     display: flex;
     flex-direction: column;
     align-items: center;
+    padding-top: 115px;
+    padding-bottom: 125px;
 }
 .contacts__header{
-    padding-top: 115px;
-}
-.contacts__text{
-    padding-top: 35px;
     padding-bottom: 35px;
 }
+.contacts__text{
+    padding-bottom: 35px;
+}
+.contacts__email-link{
+    padding-bottom: 75px;
+}
 .contacts__socials_swg-list{
-    padding-top: 75px;
     display:flex;
     width:350px;
     justify-content: space-between;
+    padding-bottom: 45px;
 }
 .contacts__socials_signature{
     font-size: 16px;
     color: #828282;
-    padding-top: 45px;
-    padding-bottom: 125px;
 }

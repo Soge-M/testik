@@ -4,6 +4,9 @@
     height: 210px;
     align-items: center;
 }
+.abm-lang{
+    padding-bottom:90px;
+}
 .name{
     font-size:54px;
     line-height: 1.2;
@@ -31,7 +34,4 @@
 }
 figure{
     margin:0
-}
-.header{
-    height: 100vh;
 }

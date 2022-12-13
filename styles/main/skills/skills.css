@@ -1,14 +1,16 @@
 .Skills{
     text-align: center;
+    padding-top:90px;
+    padding-bottom: 110px;
 }
 .Skills_header{
-    padding-top: 90px;
+    padding-bottom: 69px;
 }
 .Skills_text{
-    padding-top: 69px;
+    padding-bottom:90px;
 }
 .Skills__app-list{
-    padding: 90px 25px 0px 25px;
+    padding: 0px 25px 40px 25px;
     display: flex;
     justify-content: space-between;
 
@@ -19,8 +21,6 @@
     padding-top:15px;
 }
 .Skills__rating{
-    padding-top:40px;
-    padding-bottom: 110px;
     display:flex;
     justify-content: space-between;
 }
